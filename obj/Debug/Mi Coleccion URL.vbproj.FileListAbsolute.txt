@@ -1,0 +1,12 @@
+C:\Users\oswal\source\repos\Mi Coleccion URL\bin\Debug\Mi Coleccion URL.exe.config
+C:\Users\oswal\source\repos\Mi Coleccion URL\bin\Debug\Mi Coleccion URL.exe
+C:\Users\oswal\source\repos\Mi Coleccion URL\bin\Debug\Mi Coleccion URL.pdb
+C:\Users\oswal\source\repos\Mi Coleccion URL\bin\Debug\Mi Coleccion URL.xml
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.vbproj.AssemblyReference.cache
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi_Coleccion_URL.Form1.resources
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi_Coleccion_URL.Resources.resources
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.vbproj.GenerateResource.cache
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.vbproj.CoreCompileInputs.cache
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.exe
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.xml
+C:\Users\oswal\source\repos\Mi Coleccion URL\obj\Debug\Mi Coleccion URL.pdb
